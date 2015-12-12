@@ -1,7 +1,7 @@
 # rdfDoctor
 Snippets of code for rdf document comprehension for human
 
-Here is an example of the file run on the Reactome.org human BioPax lvl3 .owl file. Initial row is a class with count of instances, attribuytes are listed with indent and attributes that link to a class within the rdf documented are indented more and rely on sane names for the identifiers of different classes.
+Here is an example of the file run on the [Reactome.org human BioPax lvl3 .owl](http://www.reactome.org/pages/download-data/) file. Initial row is a class with count of instances, attribuytes are listed with indent and attributes that link to a class within the rdf documented are indented more and rely on sane names for the identifiers of different classes.
 
 For each tag and class pointed to, percentages indicate percentage of classes where a tag was enountered within a class and number of tags per class, whereas the pointer to the classes within a class indicate how frequently a class was encountered knowing that a tag was encountered and how many time it was present when it was encountered.
 
